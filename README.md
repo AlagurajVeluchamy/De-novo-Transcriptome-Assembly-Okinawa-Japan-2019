@@ -1,20 +1,18 @@
-# De-novo-Transcriptome-Assembly-Okinawa-Japan-2019
+# De-novo-Transcriptome-Assembly-Okinawa-Japan-2019 
 
-8:00 AM: Strategies of sequencing for Transcriptome
+DAY1; 7 August 2019
 
-9:00 AM: Getting friendly with University Linux server
+9:00 AM: Introduction, Strategies of sequencing for Transcriptome
 
-10:00 AM: FASTQC
+10:00 AM: Getting friendly with University Linux server
 
-11:00 AM: Trimmomatic
-
-12:00 AM: Trinity (Trinity run during lunch)
+11:00 AM: Sequencing; SE & PE; FASTQC
 
 
-1:00 PM: Assembly statistics
+1:00 PM: Trimmomatic
 
-2:00 PM: 
+2:00 PM: SPAdes de novo assembly
 
-3:00 PM:
+3:00 PM: Assembly statistics with rnaQUAST
 
-4:00 PM:
+4:00 PM: Interpretation of the Assembly evaluation metrics
