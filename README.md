@@ -16,3 +16,25 @@ DAY1; 7 August 2019
 3:00 PM: Assembly statistics with rnaQUAST
 
 4:00 PM: Interpretation of the Assembly evaluation metrics
+
+
+
+
+# Expression quantification and annotation
+
+DAY2; 8 August 2019
+
+9:00 AM: mapping to the transcript (split)
+
+10:00 AM: Quantification by FPKM
+
+11:00 AM: .....
+
+
+1:00 PM: Differential expression
+
+2:00 PM: .....
+
+3:00 PM: Annotation
+
+4:00 PM: Closing remarks
