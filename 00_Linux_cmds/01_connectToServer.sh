@@ -1,0 +1,1 @@
+ssh username@universityservername.jp
