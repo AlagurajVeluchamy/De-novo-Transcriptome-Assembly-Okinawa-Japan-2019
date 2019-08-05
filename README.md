@@ -8,6 +8,7 @@ DAY1; 7 August 2019
 
 11:00 AM: Sequencing; SE & PE; FASTQC
 
+12- 1 PM LUNCH BREAK
 
 1:00 PM: Trimmomatic clean-up of reads
 
@@ -30,6 +31,7 @@ DAY2; 8 August 2019
 
 11:00 AM: Mapping statistics and IGV viewer 
 
+12- 1 PM LUNCH BREAK
 
 1:00 PM: Cluster analysis and generate simple heatmap
 
