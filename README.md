@@ -9,7 +9,7 @@ DAY1; 7 August 2019
 11:00 AM: Sequencing; SE & PE; FASTQC
 
 
-1:00 PM: Trimmomatic
+1:00 PM: Trimmomatic clean-up of reads
 
 2:00 PM: SPAdes de novo assembly
 
@@ -24,9 +24,9 @@ DAY1; 7 August 2019
 
 DAY2; 8 August 2019
 
-9:00 AM: splice-aware transcript mapping (split)
+9:00 AM: splice-aware transcriptome mapping (split)
 
-10:00 AM: Quantification by FPKM
+10:00 AM: Quantification (FPKM) of expression level
 
 11:00 AM: Mapping statistics and IGV viewer 
 
@@ -35,6 +35,6 @@ DAY2; 8 August 2019
 
 2:00 PM: Differential expression
 
-3:00 PM: Annotation
+3:00 PM: Annotation of transcripts
 
 4:00 PM: Closing remarks
