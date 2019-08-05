@@ -24,16 +24,16 @@ DAY1; 7 August 2019
 
 DAY2; 8 August 2019
 
-9:00 AM: mapping to the transcript (split)
+9:00 AM: splice-aware transcript mapping (split)
 
 10:00 AM: Quantification by FPKM
 
-11:00 AM: .....
+11:00 AM: Mapping statistics and IGV viewer 
 
 
-1:00 PM: Differential expression
+1:00 PM: Cluster analysis and generate simple heatmap
 
-2:00 PM: .....
+2:00 PM: Differential expression
 
 3:00 PM: Annotation
 
