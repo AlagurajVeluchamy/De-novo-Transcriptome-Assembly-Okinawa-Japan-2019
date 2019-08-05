@@ -1,4 +1,4 @@
-# De-novo-Transcriptome-Assembly-Okinawa-Japan-2019 
+# De novo transcriptome assembly 2019, University of Ryukyus, Okinawa, Japan
 
 **DAY1; 7 August 2019**
 
