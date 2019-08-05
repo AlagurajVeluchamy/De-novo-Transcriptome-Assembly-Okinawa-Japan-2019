@@ -1,0 +1,6 @@
+FASTA : representing nucleotide/ amino acid sequences
+FASTQ : storing biological sequence and corresponding quality scores.
+SAM : storing biological sequences aligned to a reference sequence
+BAM : compressed versione of SAM
+BED : tab separated file, for annotang features.
+GFF : gene-finding format , generic feature format,
