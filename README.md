@@ -1,6 +1,6 @@
 # De-novo-Transcriptome-Assembly-Okinawa-Japan-2019 
 
-DAY1; 7 August 2019
+**DAY1; 7 August 2019**
 
 9:00 AM: Introduction, Strategies of sequencing for Transcriptome
 
@@ -23,7 +23,7 @@ DAY1; 7 August 2019
 
 # Expression quantification and annotation
 
-DAY2; 8 August 2019
+**DAY2; 8 August 2019**
 
 9:00 AM: splice-aware transcriptome mapping (split)
 
