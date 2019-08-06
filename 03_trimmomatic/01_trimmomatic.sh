@@ -1,1 +1,1 @@
-trimmomatic
+java -jar /usr/local/bin/Trimmomatic-0.36/trimmomatic-0.36.jar PE Ir5922_GTGAAA_L004_R1_001.fastq.gz Ir5922_GTGAAA_L004_R2_001.fastq.gz output_forward_paired.fq.gz output_forward_unpaired.fq.gz output_reverse_paired.fq.gz output_reverse_unpaired.fq.gz ILLUMINACLIP:/usr/local/bin/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 MINLEN:36
