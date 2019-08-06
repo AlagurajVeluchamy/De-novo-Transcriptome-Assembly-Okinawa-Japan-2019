@@ -4,3 +4,9 @@ SAM : storing biological sequences aligned to a reference sequence
 BAM : compressed versione of SAM
 BED : tab separated file, for annotang features.
 GFF : gene-finding format , generic feature format,
+
+
+Get phaeodactylum genome file
+get phaeodactylum gff3 files
+convert that to bed using awk, cut
+get only chromosome1 separate it
