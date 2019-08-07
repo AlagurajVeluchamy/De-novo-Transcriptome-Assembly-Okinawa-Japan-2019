@@ -8,3 +8,9 @@ r/local/bin/hmmer-3.2.1/bin:/mnt/sci-RNAseq/progs/augustus.2.5.5/bin"
 export AUGUSTUS_CONFIG_PATH="/mnt/sci-RNAseq/progs/augustus.2.5.5/config/"
 export BUSCO_CONFIG_FILE="
 
+
+python -m pip install --user matplotlib
+python -m pip install --user gffutils
+python -m pip install --user joblib
+
+
